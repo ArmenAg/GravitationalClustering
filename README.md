@@ -1,4 +1,4 @@
-# GravitationalClustering
+# [Gravitational Clustering](https://github.com/ArmenAg/GravitationalClustering/blob/master/Paper.pdf?raw=true)
 
 Abstract
 ---------
@@ -15,7 +15,7 @@ The ability to weight the importance of training vectors as well as the ability 
 
 Notes
 -----------
-This is the repository behind the code that is presented in the Gravitational CLustering Algorithm Paper. The algorithm is written in C# but all the comparison algorithms are used via the sklearn library. 
+This is the repository behind the code that is presented in the [Gravitational Clustering Algorithm paper](https://github.com/ArmenAg/GravitationalClustering/blob/master/Paper.pdf?raw=true). The algorithm is written in C# but all the comparison algorithms are used via the sklearn library. 
 
 Thank you for visiting.
 
