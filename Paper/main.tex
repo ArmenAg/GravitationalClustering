@@ -183,16 +183,16 @@ The 3 more D terms come from: finding the magnitude, multiplying by force (simul
 We propose an different method of computing the class of the test point, without the need of simulation and through purely statistical methods. We first make an assumption that a planet or cluster is normally distributed from the center and the standard deviation is some function of the radius of the planet $\sigma(p_r)$. Therefore let us the define the probability density function.
 
 \begin{equation}
-\mathbf{PDF_p} = \frac{1}{2\pi*\sigma(p_r)} e ^ \frac{D(\overrightarrow{p}_x,\overrightarrow{l}_x)^2}{2\sigma(p_r)^2}
+\mathbf{PDF_p} = \frac{1}{2\pi*\sigma(p_r)} e ^ \frac{-D(\overrightarrow{p}_x,\overrightarrow{l}_x)^2}{2\sigma(p_r)^2}
 \end{equation}
 
 Now to define our prediction equation:
 \begin{equation}
-\mathbf{MAX_\theta[} \prod_{p \ | \ p_\theta = \theta_n}^{Universe} \frac{1}{2\pi*\sigma(p_r)} e ^ \frac{D(\overrightarrow{p}_x,\overrightarrow{l}_x)^2}{2\sigma(p_r)^2} \mathbf{]}
+\mathbf{MAX_\theta[} \prod_{p \ | \ p_\theta = \theta_n}^{Universe} \frac{1}{2\pi*\sigma(p_r)} e ^ \frac{-D(\overrightarrow{p}_x,\overrightarrow{l}_x)^2}{2\sigma(p_r)^2} \mathbf{]}
 \end{equation}
 To account for the fact that different classes have different amounts of planets, we will transform this function into:
 \begin{equation}
-\mathbf{MAX_\theta[} \frac{ \log {\prod_{p \ | \ p_\theta = \theta_n}^{Universe}   e ^ {(\frac{D(\overrightarrow{p}_x,\overrightarrow{l}_x)^2}{p_m2\sigma(p_r)^2})} \mathbf{]}}}{|p \ | \ p_\theta = \theta_n|}
+\mathbf{MAX_\theta[} \frac{ \log {\prod_{p \ | \ p_\theta = \theta_n}^{Universe}   e ^ {(\frac{-D(\overrightarrow{p}_x,\overrightarrow{l}_x)^2}{p_m2\sigma(p_r)^2})} \mathbf{]}}}{|p \ | \ p_\theta = \theta_n|}
 \end{equation}
 We removed the normalization constant, due to the fact that this is a relative measure. The bottom of the fraction is the number of planets per class which insures that their is no bias due to the different amounts of clusters with varying radius's. The mass term is added to insure that greater planets have a greater impact on the rating. \\ \\
 Through trial and error we found the best function for  $\sigma(p_r)$ was simply  $p_r^2$. 
