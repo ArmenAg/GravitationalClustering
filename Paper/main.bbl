@@ -1,0 +1,55 @@
+\begin{thebibliography}{}
+
+\bibitem[Benediktsson et~al., 1993]{nndown}
+Benediktsson, J.~A., SWAIN, P.~H., and ERSOY, O.~K. (1993).
+\newblock Conjugate-gradient neural networks in classification of multisource
+  and very-high-dimensional remote sensing data.
+\newblock {\em International Journal of Remote Sensing}, 14(15):2883--2903.
+
+\bibitem[Bentley, 1975]{kdtree}
+Bentley, J.~L. (1975).
+\newblock Multidimensional binary search trees used for associative searching.
+\newblock {\em Commun. ACM}, 18(9):509--517.
+
+\bibitem[Bevilacqua et~al., 2006]{olivetti}
+Bevilacqua, V., Mastronardi, G., Pedone, A., Romanazzi, G., and Daleno, D.
+  (2006).
+\newblock Hidden markov models for recognition using artificial neural
+  networks.
+\newblock 4113:126--134.
+
+\bibitem[Cortes and Vapnik, 1995]{svmbinary}
+Cortes, C. and Vapnik, V. (1995).
+\newblock Support-vector networks.
+\newblock {\em Machine Learning}, 20(3):273--297.
+
+\bibitem[Lakoff, 1987]{proto}
+Lakoff, G. (1987).
+\newblock {\em Women, Fire, and Dangerous Things}.
+\newblock The University of Chicago Press.
+
+\bibitem[Lichman, 2013]{wisconsin}
+Lichman, M. (2013).
+\newblock {UCI} machine learning repository.
+
+\bibitem[MacQueen, 1967]{kmeans}
+MacQueen, J. (1967).
+\newblock Some methods for classification and analysis of multivariate
+  observations.
+\newblock pages 281--297.
+
+\bibitem[Pedregosa et~al., 2011]{sklearn}
+Pedregosa, F., Varoquaux, G., Gramfort, A., Michel, V., Thirion, B., Grisel,
+  O., Blondel, M., Prettenhofer, P., Weiss, R., Dubourg, V., Vanderplas, J.,
+  Passos, A., Cournapeau, D., Brucher, M., Perrot, M., and Duchesnay, E.
+  (2011).
+\newblock Scikit-learn: Machine learning in {P}ython.
+\newblock {\em Journal of Machine Learning Research}, 12:2825--2830.
+
+\bibitem[Wolberg and Mangasarian, 1990]{breastcancer}
+Wolberg, W. and Mangasarian, O. (1990).
+\newblock Multisurface method of pattern separation for medical diagnosis
+  applied to breast cytology,.
+\newblock pages 9193--9196.
+
+\end{thebibliography}

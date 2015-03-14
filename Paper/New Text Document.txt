@@ -1,0 +1,22 @@
+@article{doi:10.1080/01431169308904316,
+author = {BENEDIKTSSON, J. A. and SWAIN, P. H. and ERSOY, O. K.},
+title = {Conjugate-gradient neural networks in classification of multisource and very-high-dimensional remote sensing data},
+journal = {International Journal of Remote Sensing},
+volume = {14},
+number = {15},
+pages = {2883-2903},
+year = {1993},
+doi = {10.1080/01431169308904316},
+
+URL = { 
+        http://www.tandfonline.com/doi/abs/10.1080/01431169308904316
+    
+},
+eprint = { 
+        http://www.tandfonline.com/doi/pdf/10.1080/01431169308904316
+    
+}
+
+}
+
+
