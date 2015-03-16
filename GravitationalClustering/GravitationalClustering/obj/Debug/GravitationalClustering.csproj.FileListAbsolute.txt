@@ -16,3 +16,12 @@ C:\Users\Armen\Documents\Papers\Gravitational Clustering\GravitationalClustering
 C:\Users\Armen\Documents\Papers\Gravitational Clustering\GravitationalClustering\GravitationalClustering\GravitationalClustering\obj\Debug\GravitationalClustering.csproj.GenerateResource.Cache
 C:\Users\Armen\Documents\Papers\Gravitational Clustering\GravitationalClustering\GravitationalClustering\GravitationalClustering\bin\Debug\GravitationalClustering.exe
 C:\Users\Armen\Documents\Papers\Gravitational Clustering\GravitationalClustering\GravitationalClustering\GravitationalClustering\bin\Debug\GravitationalClustering.pdb
+C:\Users\Armen\Documents\GitHub\GravitationalClustering\GravitationalClustering\GravitationalClustering\obj\Debug\GravitationalClustering.csprojResolveAssemblyReference.cache
+C:\Users\Armen\Documents\GitHub\GravitationalClustering\GravitationalClustering\GravitationalClustering\obj\Debug\GravitationalClustering.Form1.resources
+C:\Users\Armen\Documents\GitHub\GravitationalClustering\GravitationalClustering\GravitationalClustering\obj\Debug\GravitationalClustering.Properties.Resources.resources
+C:\Users\Armen\Documents\GitHub\GravitationalClustering\GravitationalClustering\GravitationalClustering\obj\Debug\GravitationalClustering.csproj.GenerateResource.Cache
+C:\Users\Armen\Documents\GitHub\GravitationalClustering\GravitationalClustering\GravitationalClustering\obj\Debug\GravitationalClustering.exe
+C:\Users\Armen\Documents\GitHub\GravitationalClustering\GravitationalClustering\GravitationalClustering\bin\Debug\GravitationalClustering.exe.config
+C:\Users\Armen\Documents\GitHub\GravitationalClustering\GravitationalClustering\GravitationalClustering\bin\Debug\GravitationalClustering.exe
+C:\Users\Armen\Documents\GitHub\GravitationalClustering\GravitationalClustering\GravitationalClustering\bin\Debug\GravitationalClustering.pdb
+C:\Users\Armen\Documents\GitHub\GravitationalClustering\GravitationalClustering\GravitationalClustering\obj\Debug\GravitationalClustering.pdb

@@ -437,7 +437,7 @@ namespace GravitationalClustering
             }).Sum();
 #if DEBUG
             {
-                Debug.WriteLine("Percent Accuracy " + ((double)d / ((double)data.Length - take)).ToString());
+                Debug.WriteLine("Percent Accuracy " + ((double)d / ((double)data.Length)).ToString());
             }
 #else
             {
